@@ -1,0 +1,7 @@
+22/03/2017, 15:59 - Messages you send to this group are now secured with end-to-end encryption. Tap for more info.
+22/03/2017, 15:59 - You created group “Test”
+22/03/2017, 16:00 - Ronan: Testing
+22/03/2017, 16:01 - Friend: Who are you
+22/03/2017, 16:02 - Ronan: Hello friend
+22/03/2017, 16:02 - Friend: How did you get this number
+22/03/2017, 16:03 - Ronan: I wish functional programming wasn't so solitary
